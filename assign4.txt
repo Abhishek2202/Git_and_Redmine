@@ -1,17 +1,4 @@
-The best accuracy that I m getting is 79.15862068965517 % corresponding to the following values of m, eta and epochs.
 
-m = 6 
-eta = 0.000001
-epoch = 10 
-
-b hidden
-
-0  0.499768
-1  0.499768
-2  0.499768
-3  0.499768
-4  0.499768
-5  0.499768
 
 w hidden
           0         1         2         3         4         5
